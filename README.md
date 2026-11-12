@@ -44,8 +44,6 @@ python -m pip install numpy matplotlib scipy
 | `Engine_Vibration_Analysis.py` | Main Python program. |
 | `Engine_Vibration_Analysis.ipynb` | Notebook version of the project. |
 | `README.md` | Project documentation. |
-| `requirements.txt` | Required Python libraries. |
-| `report/` | Project report, if included. |
 
 ## How to Run
 
